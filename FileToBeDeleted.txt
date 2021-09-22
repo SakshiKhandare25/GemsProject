@@ -1,1 +1,0 @@
-To check that git tracks file events like create,modify,delete,rename
