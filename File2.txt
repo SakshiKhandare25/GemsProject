@@ -5,3 +5,5 @@ WI4 changes for payment gateway
 WI4 completed
 
 Change for WI5 to check normal push from local master to origin master
+
+Change this is by team mate on remote master for bugs
