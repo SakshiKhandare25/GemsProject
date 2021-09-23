@@ -5,3 +5,6 @@ Change - for WI1 to check commit -am.
 File updated
 
 Change by team mate for WI2 3-way merging
+
+change for bug2 fix
+
