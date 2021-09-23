@@ -9,3 +9,7 @@ WI4 -> completed
 4 :Change this is by team mate on remote master for bugs
 
 Change by team mate on remote master for CR2 to verify rebase
+
+5: Change for WI6 local master.
+
+WI6:File2 updated on local master and number added
