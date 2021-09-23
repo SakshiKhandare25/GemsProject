@@ -8,3 +8,4 @@ Change by team mate for WI2 3-way merging
 
 change for bug2 fix
 
+Change for WI3 to check rebase without conflict
