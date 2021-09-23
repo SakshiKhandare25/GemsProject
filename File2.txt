@@ -1,9 +1,11 @@
 Hello World
 
-WI4 changes for payment gateway
+WI4 -> changes for payment gateway
 
-WI4 completed
+WI4 -> completed
 
-Change for WI5 to check normal push from local master to origin master
+3: Change for WI5 to check normal push from local master to origin master
 
-Change this is by team mate on remote master for bugs
+4 :Change this is by team mate on remote master for bugs
+
+Change by team mate on remote master for CR2 to verify rebase
